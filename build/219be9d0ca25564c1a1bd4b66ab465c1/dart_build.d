@@ -1,0 +1,1 @@
+ C:\\Users\\uga2b\\Desktop\\actividad\ integradora\ 2\ apps\ moviles\\mini_app_usuario\\build\\219be9d0ca25564c1a1bd4b66ab465c1\\dart_build_result.json: 
